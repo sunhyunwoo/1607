@@ -5,7 +5,7 @@ int main()
 	if(score >= 90)
 	    printf("A");
     else
-        printf("B")
+        printf("B");
     
 	getchar();
 	return 0;
